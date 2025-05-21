@@ -8,6 +8,6 @@ export default defineConfig({
     port: 8080,
     host: true, // This tells Vite to listen on all available network interfaces (0.0.0.0)
     strictPort: true, // Vite will exit if the port is already in use
-    allowedHosts: ['my-app-28630741999.asia-southeast2.run.app']
+    allowedHosts: 'all'
   }
 })
