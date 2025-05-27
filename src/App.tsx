@@ -172,7 +172,7 @@ function App() {
             
             <div className="team-info">
               <div className="info-header">
-                <h3 className="info-title">Apa itu App Engine ?</h3>
+                <h3 className="info-title">Apa itu Cloud Run ?</h3>
                 {/* UBAH DESKRIPSI */}
                 <p className="info-description">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
